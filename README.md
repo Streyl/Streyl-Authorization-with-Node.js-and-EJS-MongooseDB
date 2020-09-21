@@ -1,4 +1,4 @@
-# Authorization-with-Node.js-and-EJS + MONGODB
+# TicketTacer With Auntification
 Welcome to my small Authorization web project via Node.js, EJS and MONGODB
 
 Commits:
@@ -9,3 +9,6 @@ script:
 npm i bcryptjs express passport passport-local ejs express-ejs-layouts mongoose connect-flash express-session -D nodemon ejs-lint
 
 PS: Don't forget to change your keys to database.
+
+terminal1: \server : nodemon start
+terminal2: \client : npm start
